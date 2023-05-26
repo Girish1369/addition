@@ -8,7 +8,11 @@ public class additioninlocal {
 		
 		System.out.println("addtion="+(a+b));
 		
-
+//addtion of two number by pull method
+		a=20;
+		b=30;
+		System.out.println("addition="+(a+b));
+		
 	}
 
 }
